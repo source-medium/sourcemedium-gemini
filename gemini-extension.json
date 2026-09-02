@@ -1,0 +1,11 @@
+{
+  "name": "sourcemedium",
+  "version": "1.0.0",
+  "description": "Query and analyze your maintained SourceMedium commerce data from Gemini CLI.",
+  "mcpServers": {
+    "sourcemedium": {
+      "httpUrl": "https://mcp.sourcemedium.com/mcp",
+      "authProviderType": "dynamic_discovery"
+    }
+  }
+}
