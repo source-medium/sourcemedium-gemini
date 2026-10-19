@@ -1,6 +1,6 @@
 {
   "name": "sourcemedium",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Query and analyze your maintained SourceMedium commerce data from Gemini CLI.",
   "mcpServers": {
     "sourcemedium": {
